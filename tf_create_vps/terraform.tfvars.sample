@@ -1,0 +1,4 @@
+access_token = "Your DigitalOcean token"
+email = "You email address"
+label = "Your name of course and task"
+public_key = "Your public key ssh"

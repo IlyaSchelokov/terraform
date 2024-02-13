@@ -1,0 +1,7 @@
+access_token = "Your DigitalOcean token"
+email = "You email address"
+label = "Your name of course and task"
+public_key = "Your public key ssh"
+aws_access_key = "You access key AWS"
+aws_secret_key = "You secret key AWS"
+number_of_servers = "Number of servers created"
